@@ -22,6 +22,7 @@ footer{
   height: 75px;
   padding-top: 43px;
   padding-bottom: 43px;
+  color: #ffffff;
 
 }
 /*specific sections*/
@@ -58,5 +59,5 @@ h1{
 /*pseudo-classes*/
 a:link {color: #0466c8;}
 a:visited {color: #d90429;}
-a:hover{color: #edf6f9;}
+a:hover{color: #03045e;}
 a:active {color: #b7094c;}
