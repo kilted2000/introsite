@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+/*main sections*/
+header{
+  background: #f2e8cf;
+  font-family: 'Archivo Narrow', sans-serif;
+  text-align: center;
+  color: #386641;
+
+}
+main{
+  background: #a7c957;
+  font-family: 'Lato', sans-serif;
+  padding-top: 10px;
+
+
+}
+footer{
+  background: #bc4749;
+  text-align: center;
+  height: 75px;
+  padding-top: 43px;
+  padding-bottom: 43px;
+
+}
+/*specific sections*/
+img{
+  height:100px;
+  width: 100px;
+  border-radius: 45%;
+  padding-bottom: 10px;
+
+}
+h1{
+  font-size: 50px;
+}
+
+/*classes*/
+.intro{
+  text-align: center;
+}
+/*map element*/
+.mapouter{
+  margin-bottom: 10px;
+  padding-left: 450px;
+}
+/*ids*/
+#contact-me{
+  list-style-position: inside;
+  text-align: center;
+}
+/*pseudo-classes*/
+a:link {color: #0466c8;}
+a:visited {color: #5c677d;}
+a:hover{color: #001845;}
+a:active {color: #b7094c;}
