@@ -26,10 +26,6 @@ footer{
 }
 /*specific sections*/
 img{
-  height:100px;
-  width: 100px;
-  border-radius: 45%;
-  padding-bottom: 10px;
 
 }
 h1{
@@ -37,13 +33,22 @@ h1{
 }
 
 /*classes*/
+.header-image{
+  height:100px;
+  width: 100px;
+  border-radius: 45%;
+  padding-bottom: 10px;
+
+}
 .intro{
   text-align: center;
 }
 /*map element*/
-.mapouter{
-  margin-bottom: 10px;
-  padding-left: 450px;
+.map{
+  /*margin-bottom: 10px;
+  padding-left: 450px;*/
+  height: 400px;
+  width: 600px;
 }
 /*ids*/
 #contact-me{
@@ -52,6 +57,6 @@ h1{
 }
 /*pseudo-classes*/
 a:link {color: #0466c8;}
-a:visited {color: #5c677d;}
-a:hover{color: #001845;}
+a:visited {color: #d90429;}
+a:hover{color: #edf6f9;}
 a:active {color: #b7094c;}
