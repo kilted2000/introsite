@@ -57,7 +57,7 @@ h1{
   text-align: center;
 }
 /*pseudo-classes*/
-a:link {color: #0466c8;}
+a:link {color: #000814;}
 a:visited {color: #d90429;}
 a:hover{color: #03045e;}
 a:active {color: #b7094c;}
